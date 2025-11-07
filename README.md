@@ -3,9 +3,9 @@
 
 ## What is Snard Token?
 
-**Snard Token ($SNARD)** is a meme-powered utility token on the Solana blockchain that supports the Garlip.com platform—a tool for copyrighting creative works via blockchain-stamped certificates.
+**Snard Token ($SNARD)** is a utility token on the Solana blockchain that supports the Garlip.com platform —a tool for copyrighting creative works via blockchain-stamped certificates.
 
-Snard blends meme coin culture with real-world utility by giving creators incentives and tools to protect their intellectual property in a decentralized, timestamped, and verifiable way. With 1 billion tokens minted, $SNARD is designed to reward early adopters, power platform interactions, and evolve into a community-governed asset.
+Snard blends coin culture with real-world utility by giving creators incentives and tools to protect their intellectual property in a decentralized, timestamped, and verifiable way. With 1 billion tokens minted, $SNARD is designed to reward early adopters, power platform interactions, and evolve into a community-governed asset.
 
 ## Garlip.com Overview
 
@@ -19,6 +19,8 @@ Garlip is a platform where users can:
 
 In the near future, Garlip will integrate AI tools to help determine whether a submission is likely to be copyrightable, streamlining and validating the process.
 
+Snard will be opening to whdigo.com and other productivity tools in the near future.
+
 # 💰 Tokenomics
 
 ## Total Supply & Distribution
@@ -29,11 +31,17 @@ In the near future, Garlip will integrate AI tools to help determine whether a s
 
 ### Allocation:
 
-- 40% — Community Airdrop & Early User Rewards  
-- 20% — Ecosystem Growth Fund  
-- 20% — Development & Treasury  
-- 10% — Liquidity Pool & DEX Listings  
-- 10% — Reserve for Burns & Strategic Use
+* Public Sale (35%) – 350M SNARD offered via token sale events.
+
+* Team (20%) – 200M SNARD, vested over 3 years.
+
+* Reserve (20%) – 200M SNARD for liquidity, partnerships, and stability.
+
+* Ecosystem Incentives (17.5%) – 125M SNARD for creators, developers, validators, and community activities.
+
+* Marketing & Community (5%) – 50M SNARD for campaigns and adoption growth.
+
+* Advisors & Partners (2.5%) – 25M SNARD under lockup.
 
 ## Burn Mechanism
 
